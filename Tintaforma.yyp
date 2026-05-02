@@ -111,6 +111,7 @@
     {"id":{"name":"obj_tinta_sair_particula","path":"objects/obj_tinta_sair_particula/obj_tinta_sair_particula.yy",},},
     {"id":{"name":"obj_tocha","path":"objects/obj_tocha/obj_tocha.yy",},},
     {"id":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},},
+    {"id":{"name":"Object25","path":"objects/Object25/Object25.yy",},},
     {"id":{"name":"ps_brilho_fogo","path":"particles/ps_brilho_fogo/ps_brilho_fogo.yy",},},
     {"id":{"name":"ps_porta_abrindo","path":"particles/ps_porta_abrindo/ps_porta_abrindo.yy",},},
     {"id":{"name":"rm_lv_1","path":"rooms/rm_lv_1/rm_lv_1.yy",},},
